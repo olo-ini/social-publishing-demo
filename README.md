@@ -2,7 +2,7 @@
 
 This project demos a social publishing platform. Users can login, register, make a post, like and comment. 
 
-It is written using GrapQL, MERN (MongoDB, Express, React and Node) and Apollo Server.
+It is written using GraphQL, MERN (MongoDB, Express, React and Node) and Apollo Server.
 
 The server is set up and connected to the MongoDB database in *index.js*
 
@@ -23,7 +23,7 @@ After you login or register, you can make posts, delete posts, comment on other 
 To run the program you 
 
 ```jsx
-index node
+node index
 ```
 
 outside the client folder
